@@ -7,7 +7,7 @@
     min-height: 100vh;
     width: 100%;
     position: relative;
-    background-image: url('Images/Background1.JPG');
+    background-image: url('Images/Background1.jpg');
     background-position: center;
     background-size: cover;
 }
